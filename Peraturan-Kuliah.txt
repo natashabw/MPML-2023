@@ -5,3 +5,4 @@ Mampu melakukan manajemen dan analisis data menggunakan teknik-teknik statistika
 4. Supervised Method: K-Nearest Neighbor
 5. Supervised Method: Support Vector Machine
 6. Supervised and Unsupervised Method: Jaringan syaraf tiruan
+7. ada uts sesuai jadwal
